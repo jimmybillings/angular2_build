@@ -1,0 +1,15 @@
+# Node Files #
+/node_modules
+
+# Build #
+/dev
+
+# test #
+/test
+/tmp
+
+# idea
+/.idea
+
+
+npm-debug.log
